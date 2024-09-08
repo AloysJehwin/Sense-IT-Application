@@ -1,5 +1,3 @@
-Here's an extended description for the app you developed, suitable for a GitHub README file:
-
 ---
 
 Smart Navigation System for Dual-Sensory Loss Individuals (Deaf & Blind) – Live Tracking and Monitoring Application
