@@ -100,11 +100,7 @@ Future Developments
 - **Multi-Platform Support**: Develop versions of the app for **iOS** and web platforms to extend compatibility and accessibility.
 
 ---
-License
 
-This project is licensed under the **MIT License** – see the LICENSE file for details.
-
----
 Contact
 
 For any inquiries or contributions, please contact Aloys Jehwin at aloysjehwin.com.
