@@ -107,4 +107,3 @@ For any inquiries or contributions, please contact Aloys Jehwin at aloysjehwin.c
 
 --- 
 
-This README is designed to be comprehensive, providing a full picture of your innovative solution while maintaining clear instructions and descriptions for potential users, contributors, and developers.
